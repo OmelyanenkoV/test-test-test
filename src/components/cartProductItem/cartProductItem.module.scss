@@ -1,0 +1,9 @@
+.productItemCard {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.productItemCardImg {
+  object-fit: contain;
+}

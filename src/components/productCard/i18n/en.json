@@ -1,0 +1,7 @@
+{
+  "addToCart": "Add to cart",
+  "details": "Show details",
+  "category": "Category: {{category}}",
+  "price": "Price: {{price}}$",
+  "desc": "Description:"
+}
